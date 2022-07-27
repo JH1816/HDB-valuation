@@ -1,0 +1,63 @@
+---
+title: "feature selction"
+author: "Tan Jun Heng"
+date: "3/27/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(iterators)
+library(foreach)
+library(Matrix)
+library(shape)
+library(glmnet)
+library(dplyr)
+library(MASS)
+```
+
+## Data manipulation
+```{r cars}
+data <- read.csv('final.csv')
+data <- data[,2:26]
+data$town <- as.factor(data$town)
+data$flat_model <-as.factor(data$flat_model )
+data$flat_type <-as.factor(data$flat_type )
+data <- data %>% 
+  mutate(top = as.numeric(substr(storey_range, start = 1, stop = 2))) %>% 
+  mutate(bottom = as.numeric(substr(storey_range, nchar(storey_range)-1, nchar(storey_range))))%>%
+  mutate(storey_range = (top+bottom)/2) %>%
+  dplyr::select(-top,-bottom)
+
+```
+## Backward and forward selection  
+- We manually removed the irrelevant predictors index, lat, lon, address.   
+- Log the distances to make the range more workable.  
+- Remove lease_commence_date as the remaining_lease is directly related to the lease_commence_date and the year we take reference from.
+
+Using forward selection:  
+- years, flat_type, town, remaining_lease, storey_range, flat_model, dist_mrt, floor_area_sqm, dist_hawker, dist_gym, month, dist_park, dist_presch, quarter.  
+
+Using backward selection:  
+- month, town, flat_type, storey_range, years, remaining_lease, quarter, floor_area_sqm, flat_model, dist_presch, dist_gym, dist_park, dist_mrt, dist_hawker
+
+```{r}
+y <- data$resale_price
+x2 <- data[,c(-12,-15)] %>%
+  mutate(across(dist_presch:dist_hawker, log))
+data2 <- cbind(x2,y2)
+fit.1 = lm(y~1, data = data2)
+fit.2 = lm(y~month+town+flat_type+storey_range+years+remaining_lease+quarter+floor_area_sqm+flat_model+dist_presch+dist_gym+dist_kinder+dist_park+dist_park+dist_mrt+dist_hawker, data = data2)
+
+forward=stepAIC(fit.1,scope=list(upper=~+month+town+flat_type+storey_range+years+remaining_lease+quarter+floor_area_sqm+flat_model+dist_presch+dist_gym+dist_kinder+dist_park+dist_park+dist_mrt+dist_hawker, lower=~1),direction="forward")
+
+backward=stepAIC(fit.2,scope=list(upper=~+month+town+flat_type+storey_range+years+remaining_lease+quarter+floor_area_sqm+flat_model+dist_presch+dist_gym+dist_kinder+dist_park+dist_park+dist_mrt+dist_hawker, lower=~1),direction="backward")
+```
+
+## Fitting the full model and using p-value to sieve out
+```{r}
+fit.3 <- lm(y~month+town+flat_type+storey_range+years+remaining_lease+quarter+floor_area_sqm+flat_model+dist_presch+dist_gym+dist_kinder+dist_park+dist_park+dist_mrt+dist_hawker, data=data2)
+summary(fit.3)
+anova(fit.3)
+```
+

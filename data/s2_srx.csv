@@ -1,0 +1,655 @@
+"address","flat_type","floor_area_sqm","ind","storey_index","floor","unit"
+"239 Bt Batok East Ave 5","3 ROOM",67,104,4,11,10
+"215 Bt Batok St 21","3 ROOM",67,105,1,2,10
+"305 Bt Batok St 31","3 ROOM",68,106,3,8,10
+"363 Bt Batok St 31","3 ROOM",68,107,2,5,10
+"312 Bt Batok St 32","3 ROOM",68,108,4,11,10
+"504 Bt Batok St 52","3 ROOM",69,109,3,8,10
+"540 Bt Batok St 52","3 ROOM",73,110,3,8,10
+"504 Bt Batok St 52","3 ROOM",60,111,3,8,10
+"507 Bt Batok St 52","3 ROOM",60,112,2,5,10
+"408 Bt Batok West Ave 4","3 ROOM",68,113,3,8,10
+"168 Bt Batok West Ave 8","3 ROOM",74,114,2,5,10
+"235 Bt Batok East Ave 5","4 ROOM",93,115,4,11,10
+"160 Bt Batok St 11","4 ROOM",105,116,2,5,10
+"296b Bt Batok St 22","4 ROOM",92,117,9,26,10
+"296b Bt Batok St 22","4 ROOM",92,118,2,5,10
+"289e Bt Batok St 25","4 ROOM",100,119,4,11,10
+"308 Bt Batok St 31","4 ROOM",93,120,4,11,10
+"316 Bt Batok St 32","4 ROOM",93,121,4,11,10
+"183 Bt Batok West Ave 8","4 ROOM",91,122,3,8,10
+"216 Bt Batok St 21","5 ROOM",121,123,1,2,10
+"203 Bt Batok St 21","5 ROOM",133,124,3,8,10
+"288a Bt Batok St 25","5 ROOM",122,125,2,5,10
+"288b Bt Batok St 25","5 ROOM",122,126,2,5,10
+"325 Bt Batok St 33","5 ROOM",122,127,1,2,10
+"419 Bt Batok West Ave 2","5 ROOM",120,128,2,5,10
+"392 Bt Batok West Ave 5","5 ROOM",118,129,9,26,10
+"115 Bt Batok West Ave 6","5 ROOM",132,130,6,17,10
+"194a Bt Batok West Ave 6","5 ROOM",112,131,3,8,10
+"194a Bt Batok West Ave 6","5 ROOM",115,132,3,8,10
+"121 Bt Batok Ctrl","EXECUTIVE",155,133,4,11,10
+"218 Bt Batok St 21","EXECUTIVE",156,134,1,2,10
+"366 Bt Batok St 31","EXECUTIVE",144,135,1,2,10
+"405 Bt Batok West Ave 7","EXECUTIVE",152,136,2,5,10
+"7 Telok Blangah Cres","1 ROOM",31,137,3,8,10
+"48 Moh Guan Ter","2 ROOM",64,138,1,2,10
+"40 Beo Cres","3 ROOM",59,139,3,8,10
+"105a Depot Rd","3 ROOM",67,140,3,8,10
+"4 Jln Bt Ho Swee","3 ROOM",59,141,2,5,10
+"28 Jln Bt Merah","3 ROOM",60,142,3,8,10
+"42 Kim Cheng St","3 ROOM",88,143,1,2,10
+"130 Kim Tian Rd","3 ROOM",76,144,4,11,10
+"27 Lim Liak St","3 ROOM",75,145,1,2,10
+"16 Taman Ho Swee","3 ROOM",54,146,3,8,10
+"1 Telok Blangah Cres","3 ROOM",66,147,4,11,10
+"44 Telok Blangah Dr","3 ROOM",65,148,2,5,10
+"32 Telok Blangah Rise","3 ROOM",70,149,3,8,10
+"33 Telok Blangah Way","3 ROOM",59,150,4,11,10
+"8b Boon Tiong Rd","4 ROOM",100,151,7,20,10
+"110a Depot Rd","4 ROOM",92,152,9,26,10
+"110a Depot Rd","4 ROOM",92,153,6,17,10
+"53 Havelock Rd","4 ROOM",94,154,5,14,10
+"55 Havelock Rd","4 ROOM",89,155,12,35,10
+"118a Jln Membina","4 ROOM",90,156,7,20,10
+"118a Jln Membina","4 ROOM",91,157,5,14,10
+"131b Kim Tian Rd","4 ROOM",90,158,4,11,10
+"73a Redhill Rd","4 ROOM",100,159,8,23,10
+"14a Telok Blangah Cres","4 ROOM",99,160,2,5,10
+"51 Telok Blangah Dr","4 ROOM",92,161,2,5,10
+"70a Telok Blangah Hts","4 ROOM",93,162,6,17,10
+"56 Telok Blangah Hts","4 ROOM",91,163,4,11,10
+"63 Telok Blangah Hts","4 ROOM",98,164,2,5,10
+"70c Telok Blangah Hts","4 ROOM",93,165,8,23,10
+"86 Telok Blangah Hts","4 ROOM",90,166,4,11,10
+"34 Telok Blangah Way","4 ROOM",82,167,1,2,10
+"1 Delta Ave","5 ROOM",119,168,7,20,10
+"19 Jln Membina","5 ROOM",110,169,8,23,10
+"8 Kim Tian Pl","5 ROOM",131,170,8,23,10
+"119c Kim Tian Rd","5 ROOM",110,171,9,26,10
+"48 Lengkok Bahru","5 ROOM",122,172,2,5,10
+"74 Telok Blangah Hts","5 ROOM",117,173,2,5,10
+"74 Telok Blangah Hts","5 ROOM",117,174,3,8,10
+"417 Clementi Ave 1","3 ROOM",73,285,5,14,10
+"364 Clementi Ave 2","3 ROOM",67,286,1,2,10
+"312a Clementi Ave 4","3 ROOM",69,287,6,17,10
+"304 Clementi Ave 4","3 ROOM",82,288,3,8,10
+"346 Clementi Ave 5","3 ROOM",67,289,1,2,10
+"379 Clementi Ave 5","3 ROOM",82,290,3,8,10
+"208b Clementi Ave 6","3 ROOM",68,291,8,23,10
+"612 Clementi West St 1","3 ROOM",74,292,1,2,10
+"607 Clementi West St 1","3 ROOM",82,293,3,8,10
+"714 Clementi West St 2","3 ROOM",67,294,2,5,10
+"421 Clementi Ave 1","4 ROOM",92,295,3,8,10
+"457 Clementi Ave 3","4 ROOM",90,296,2,5,10
+"440c Clementi Ave 3","4 ROOM",94,297,12,35,10
+"312c Clementi Ave 4","4 ROOM",93,298,8,23,10
+"311c Clementi Ave 4","4 ROOM",82,299,12,35,10
+"208b Clementi Ave 6","4 ROOM",93,300,8,23,10
+"208b Clementi Ave 6","4 ROOM",93,301,4,11,10
+"118 Clementi St 13","4 ROOM",104,302,5,14,10
+"117 Clementi St 13","4 ROOM",104,303,3,8,10
+"512 West Coast Dr","4 ROOM",92,304,2,5,10
+"413 C'wealth Ave West","5 ROOM",125,305,3,8,10
+"416 Clementi Ave 1","5 ROOM",113,306,10,29,10
+"357 Clementi Ave 2","5 ROOM",117,307,3,8,10
+"311c Clementi Ave 4","5 ROOM",105,308,4,11,10
+"605 Clementi West St 1","5 ROOM",119,309,4,11,10
+"201 Clementi Ave 6","EXECUTIVE",150,310,2,5,10
+"116 Clementi St 13","EXECUTIVE",149,311,1,2,10
+"187 Boon Lay Ave","3 ROOM",59,413,4,11,10
+"185 Boon Lay Ave","3 ROOM",59,414,5,14,10
+"211 Boon Lay Pl","3 ROOM",65,415,4,11,10
+"208 Boon Lay Pl","3 ROOM",65,416,5,14,10
+"484 Jurong West Ave 1","3 ROOM",67,417,3,8,10
+"697b Jurong West Ctrl 3","3 ROOM",68,418,2,5,10
+"480 Jurong West St 41","3 ROOM",67,419,4,11,10
+"520 Jurong West St 52","3 ROOM",74,420,2,5,10
+"218b Boon Lay Ave","4 ROOM",94,421,2,5,10
+"273c Jurong West Ave 3","4 ROOM",90,422,1,2,10
+"685c Jurong West Ctrl 1","4 ROOM",93,423,4,11,10
+"695 Jurong West Ctrl 1","4 ROOM",104,424,3,8,10
+"272a Jurong West St 24","4 ROOM",93,425,5,14,10
+"464 Jurong West St 41","4 ROOM",106,426,2,5,10
+"450 Jurong West St 42","4 ROOM",103,427,1,2,10
+"420 Jurong West St 42","4 ROOM",88,428,2,5,10
+"515 Jurong West St 52","4 ROOM",107,429,1,2,10
+"668a Jurong West St 64","4 ROOM",86,430,4,11,10
+"718 Jurong West St 71","4 ROOM",107,431,4,11,10
+"717 Jurong West St 71","4 ROOM",107,432,1,2,10
+"820 Jurong West St 81","4 ROOM",109,433,1,2,10
+"348 Kang Ching Rd","4 ROOM",102,434,3,8,10
+"352 Kang Ching Rd","4 ROOM",102,435,1,2,10
+"138c Yuan Ching Rd","4 ROOM",91,436,2,5,10
+"175b Yung Kuang Rd","4 ROOM",93,437,5,14,10
+"218c Boon Lay Ave","5 ROOM",114,438,5,14,10
+"196b Boon Lay Dr","5 ROOM",113,439,5,14,10
+"272c Jurong West St 24","5 ROOM",112,440,6,17,10
+"416 Jurong West St 42","5 ROOM",136,441,4,11,10
+"551 Jurong West St 42","5 ROOM",134,442,1,2,10
+"650b Jurong West St 61","5 ROOM",109,443,4,11,10
+"653a Jurong West St 61","5 ROOM",110,444,3,8,10
+"661c Jurong West St 64","5 ROOM",110,445,2,5,10
+"678c Jurong West St 64","5 ROOM",110,446,4,11,10
+"678c Jurong West St 64","5 ROOM",110,447,5,14,10
+"759 Jurong West St 74","5 ROOM",123,448,1,2,10
+"825 Jurong West St 81","5 ROOM",128,449,2,5,10
+"933 Jurong West St 91","5 ROOM",127,450,3,8,10
+"909 Jurong West St 91","5 ROOM",122,451,3,8,10
+"138b Yuan Ching Rd","5 ROOM",105,452,7,20,10
+"138c Yuan Ching Rd","5 ROOM",108,453,2,5,10
+"626 Jurong West St 65","EXECUTIVE",130,454,4,11,10
+"626 Jurong West St 65","EXECUTIVE",130,455,5,14,10
+"830 Jurong West St 81","EXECUTIVE",146,456,1,2,10
+"841 Jurong West St 81","EXECUTIVE",147,457,4,11,10
+"906 Jurong West St 91","EXECUTIVE",141,458,2,5,10
+"163 Yung Ping Rd","EXECUTIVE",148,459,1,2,10
+"334c Anchorvale Cres","3 ROOM",67,672,4,11,10
+"286c Compassvale Cres","3 ROOM",68,673,1,2,10
+"211d Compassvale Lane","3 ROOM",68,674,5,14,10
+"418a Fernvale Link","3 ROOM",68,675,4,11,10
+"445a Fernvale Rd","3 ROOM",68,676,2,5,10
+"436c Fernvale Rd","3 ROOM",70,677,5,14,10
+"453d Fernvale Rd","3 ROOM",67,678,6,17,10
+"180a Rivervale Cres","3 ROOM",67,679,3,8,10
+"304a Anchorvale Link","4 ROOM",90,680,2,5,10
+"332c Anchorvale Link","4 ROOM",92,681,6,17,10
+"303b Anchorvale Link","4 ROOM",86,682,3,8,10
+"309b Anchorvale Rd","4 ROOM",95,683,3,8,10
+"317d Anchorvale Rd","4 ROOM",92,684,1,2,10
+"329a Anchorvale St","4 ROOM",93,685,3,8,10
+"287c Compassvale Cres","4 ROOM",93,686,5,14,10
+"286a Compassvale Cres","4 ROOM",93,687,4,11,10
+"289a Compassvale Cres","4 ROOM",93,688,5,14,10
+"286c Compassvale Cres","4 ROOM",93,689,4,11,10
+"286c Compassvale Cres","4 ROOM",93,690,4,11,10
+"287c Compassvale Cres","4 ROOM",93,691,3,8,10
+"204b Compassvale Dr","4 ROOM",90,692,3,8,10
+"212a Compassvale Dr","4 ROOM",95,693,4,11,10
+"212a Compassvale Dr","4 ROOM",95,694,2,5,10
+"211d Compassvale Lane","4 ROOM",95,695,6,17,10
+"211c Compassvale Lane","4 ROOM",95,696,5,14,10
+"211b Compassvale Lane","4 ROOM",93,697,3,8,10
+"207b Compassvale Lane","4 ROOM",92,698,2,5,10
+"211d Compassvale Lane","4 ROOM",93,699,2,5,10
+"277c Compassvale Link","4 ROOM",90,700,2,5,10
+"257b Compassvale Rd","4 ROOM",90,701,4,11,10
+"298b Compassvale St","4 ROOM",94,702,2,5,10
+"403a Fernvale Lane","4 ROOM",93,703,2,5,10
+"405c Fernvale Lane","4 ROOM",93,704,1,2,10
+"470a Fernvale Link","4 ROOM",93,705,7,20,10
+"467b Fernvale Link","4 ROOM",93,706,7,20,10
+"440a Fernvale Link","4 ROOM",92,707,4,11,10
+"470a Fernvale Link","4 ROOM",93,708,6,17,10
+"416b Fernvale Link","4 ROOM",93,709,4,11,10
+"414a Fernvale Link","4 ROOM",93,710,3,8,10
+"408c Fernvale Rd","4 ROOM",95,711,8,23,10
+"410c Fernvale Rd","4 ROOM",96,712,6,17,10
+"453b Fernvale Rd","4 ROOM",92,713,7,20,10
+"443b Fernvale Rd","4 ROOM",94,714,8,23,10
+"471c Fernvale St","4 ROOM",93,715,2,5,10
+"184c Rivervale Cres","4 ROOM",85,716,6,17,10
+"162a Rivervale Cres","4 ROOM",93,717,2,5,10
+"185d Rivervale Cres","4 ROOM",85,718,2,5,10
+"185c Rivervale Cres","4 ROOM",90,719,5,14,10
+"162b Rivervale Cres","4 ROOM",93,720,5,14,10
+"121a Rivervale Dr","4 ROOM",91,721,5,14,10
+"124b Rivervale Dr","4 ROOM",90,722,6,17,10
+"271c Sengkang Ctrl","4 ROOM",93,723,1,2,10
+"279b Sengkang East Ave","4 ROOM",92,724,3,8,10
+"200a Sengkang East Rd","4 ROOM",90,725,4,11,10
+"325a Sengkang East Way","4 ROOM",90,726,1,2,10
+"260d Sengkang East Way","4 ROOM",90,727,4,11,10
+"332c Anchorvale Link","5 ROOM",112,728,5,14,10
+"315c Anchorvale Rd","5 ROOM",110,729,1,2,10
+"289a Compassvale Cres","5 ROOM",113,730,5,14,10
+"212b Compassvale Dr","5 ROOM",118,731,3,8,10
+"206a Compassvale Lane","5 ROOM",122,732,4,11,10
+"206c Compassvale Lane","5 ROOM",123,733,2,5,10
+"246 Compassvale Rd","5 ROOM",115,734,1,2,10
+"257a Compassvale Rd","5 ROOM",110,735,2,5,10
+"262a Compassvale St","5 ROOM",110,736,3,8,10
+"468c Fernvale Link","5 ROOM",113,737,9,26,10
+"415c Fernvale Link","5 ROOM",112,738,4,11,10
+"408a Fernvale Rd","5 ROOM",115,739,5,14,10
+"155 Rivervale Cres","5 ROOM",110,740,1,2,10
+"183c Rivervale Cres","5 ROOM",110,741,2,5,10
+"116c Rivervale Dr","5 ROOM",115,742,2,5,10
+"186b Rivervale Dr","5 ROOM",110,743,4,11,10
+"133 Rivervale St","5 ROOM",122,744,3,8,10
+"125 Rivervale St","5 ROOM",121,745,4,11,10
+"141 Rivervale St","5 ROOM",120,746,1,2,10
+"109 Rivervale Walk","5 ROOM",120,747,2,5,10
+"200a Sengkang East Rd","5 ROOM",110,748,3,8,10
+"261a Sengkang East Way","5 ROOM",110,749,4,11,10
+"469b Sengkang West Way","5 ROOM",113,750,4,11,10
+"433b Sengkang West Way","5 ROOM",113,751,3,8,10
+"307b Anchorvale Rd","EXECUTIVE",125,752,5,14,10
+"299c Compassvale St","EXECUTIVE",136,753,2,5,10
+"143 Rivervale Dr","EXECUTIVE",140,754,4,11,10
+"189c Rivervale Dr","EXECUTIVE",130,755,1,2,10
+"143 Rivervale Dr","EXECUTIVE",135,756,4,11,10
+"879b Tampines Ave 8","3 ROOM",68,769,5,14,10
+"879b Tampines Ave 8","3 ROOM",68,770,4,11,10
+"868c Tampines Ave 8","3 ROOM",67,771,2,5,10
+"878a Tampines Ave 8","3 ROOM",68,772,4,11,10
+"271 Tampines St 21","3 ROOM",75,773,3,8,10
+"258 Tampines St 21","3 ROOM",72,774,1,2,10
+"272 Tampines St 22","3 ROOM",73,775,1,2,10
+"293 Tampines St 22","3 ROOM",73,776,1,2,10
+"213 Tampines St 23","3 ROOM",73,777,2,5,10
+"213 Tampines St 23","3 ROOM",73,778,3,8,10
+"438 Tampines St 43","3 ROOM",74,779,2,5,10
+"468 Tampines St 44","3 ROOM",64,780,1,2,10
+"462 Tampines St 44","3 ROOM",64,781,4,11,10
+"847 Tampines St 83","3 ROOM",74,782,2,5,10
+"119 Simei St 1","4 ROOM",104,783,2,5,10
+"141 Simei St 2","4 ROOM",104,784,4,11,10
+"890b Tampines Ave 1","4 ROOM",93,785,4,11,10
+"890b Tampines Ave 1","4 ROOM",93,786,5,14,10
+"812 Tampines Ave 4","4 ROOM",92,787,1,2,10
+"395 Tampines Ave 7","4 ROOM",105,788,2,5,10
+"878b Tampines Ave 8","4 ROOM",93,789,5,14,10
+"880 Tampines Ave 8","4 ROOM",104,790,2,5,10
+"520a Tampines Ctrl 8","4 ROOM",84,791,3,8,10
+"164 Tampines St 12","4 ROOM",106,792,2,5,10
+"163 Tampines St 12","4 ROOM",108,793,4,11,10
+"259 Tampines St 21","4 ROOM",105,794,3,8,10
+"260 Tampines St 21","4 ROOM",103,795,4,11,10
+"251 Tampines St 21","4 ROOM",104,796,3,8,10
+"296 Tampines St 22","4 ROOM",92,797,1,2,10
+"284 Tampines St 22","4 ROOM",104,798,2,5,10
+"384 Tampines St 32","4 ROOM",105,799,1,2,10
+"322 Tampines St 33","4 ROOM",108,800,4,11,10
+"423 Tampines St 41","4 ROOM",84,801,4,11,10
+"489c Tampines St 45","4 ROOM",104,802,4,11,10
+"498l Tampines St 45","4 ROOM",106,803,2,5,10
+"741 Tampines St 72","4 ROOM",100,804,5,14,10
+"735 Tampines St 72","4 ROOM",102,805,3,8,10
+"838 Tampines St 82","4 ROOM",84,806,4,11,10
+"866 Tampines St 83","4 ROOM",106,807,4,11,10
+"167b Simei Lane","5 ROOM",107,808,2,5,10
+"167a Simei Lane","5 ROOM",111,809,3,8,10
+"222 Simei St 4","5 ROOM",122,810,1,2,10
+"518d Tampines Ctrl 7","5 ROOM",109,811,3,8,10
+"515c Tampines Ctrl 7","5 ROOM",107,812,2,5,10
+"389 Tampines St 32","5 ROOM",127,813,3,8,10
+"340 Tampines St 33","5 ROOM",124,814,3,8,10
+"359 Tampines St 34","5 ROOM",121,815,1,2,10
+"360 Tampines St 34","5 ROOM",121,816,1,2,10
+"455 Tampines St 42","5 ROOM",122,817,4,11,10
+"494c Tampines St 43","5 ROOM",123,818,2,5,10
+"498h Tampines St 45","5 ROOM",125,819,1,2,10
+"491h Tampines St 45","5 ROOM",123,820,2,5,10
+"489b Tampines St 45","5 ROOM",125,821,1,2,10
+"731 Tampines St 71","5 ROOM",125,822,2,5,10
+"736 Tampines St 72","5 ROOM",122,823,5,14,10
+"871c Tampines St 86","5 ROOM",114,824,4,11,10
+"944 Tampines Ave 5","EXECUTIVE",146,825,4,11,10
+"230e Tampines St 24","EXECUTIVE",148,826,2,5,10
+"314 Tampines St 33","EXECUTIVE",153,827,2,5,10
+"497f Tampines St 45","EXECUTIVE",139,828,1,2,10
+"739 Tampines St 72","EXECUTIVE",141,829,2,5,10
+"889 Tampines St 81","EXECUTIVE",146,830,4,11,10
+"856f Tampines St 82","EXECUTIVE",143,831,3,8,10
+"863 Tampines St 83","EXECUTIVE",154,832,4,11,10
+"857 Tampines St 83","EXECUTIVE",146,833,3,8,10
+"160 Lor 1 Toa Payoh","2 ROOM",40,834,3,8,10
+"160 Lor 1 Toa Payoh","2 ROOM",40,835,2,5,10
+"58 Lor 4 Toa Payoh","2 ROOM",42,836,3,8,10
+"195 Kim Keat Ave","3 ROOM",66,837,2,5,10
+"113 Lor 1 Toa Payoh","3 ROOM",65,838,2,5,10
+"128 Lor 1 Toa Payoh","3 ROOM",67,839,6,17,10
+"125 Lor 1 Toa Payoh","3 ROOM",67,840,3,8,10
+"85b Lor 4 Toa Payoh","3 ROOM",68,841,4,11,10
+"85a Lor 4 Toa Payoh","3 ROOM",68,842,7,20,10
+"92 Lor 4 Toa Payoh","3 ROOM",60,843,1,2,10
+"85b Lor 4 Toa Payoh","3 ROOM",68,844,5,14,10
+"9 Lor 7 Toa Payoh","3 ROOM",66,845,3,8,10
+"17 Lor 7 Toa Payoh","3 ROOM",67,846,3,8,10
+"231 Lor 8 Toa Payoh","3 ROOM",65,847,2,5,10
+"225 Lor 8 Toa Payoh","3 ROOM",65,848,2,5,10
+"231 Lor 8 Toa Payoh","3 ROOM",65,849,1,2,10
+"105 Potong Pasir Ave 1","3 ROOM",74,850,2,5,10
+"104 Potong Pasir Ave 1","3 ROOM",74,851,2,5,10
+"145 Potong Pasir Ave 2","3 ROOM",74,852,4,11,10
+"145 Potong Pasir Ave 2","3 ROOM",74,853,3,8,10
+"207 Toa Payoh Nth","3 ROOM",76,854,3,8,10
+"15 Joo Seng Rd","4 ROOM",103,855,1,2,10
+"138a Lor 1a Toa Payoh","4 ROOM",91,856,14,41,10
+"122 Lor 2 Toa Payoh","4 ROOM",100,857,4,11,10
+"84b Lor 2 Toa Payoh","4 ROOM",106,858,3,8,10
+"142 Lor 2 Toa Payoh","4 ROOM",86,859,5,14,10
+"146 Lor 2 Toa Payoh","4 ROOM",92,860,12,35,10
+"80 Lor 4 Toa Payoh","4 ROOM",105,861,2,5,10
+"227 Lor 8 Toa Payoh","4 ROOM",82,862,3,8,10
+"213 Lor 8 Toa Payoh","4 ROOM",82,863,1,2,10
+"79e Toa Payoh Ctrl","4 ROOM",76,864,11,32,10
+"200 Toa Payoh Nth","4 ROOM",87,865,4,11,10
+"204 Toa Payoh Nth","4 ROOM",87,866,4,11,10
+"202 Toa Payoh Nth","4 ROOM",87,867,5,14,10
+"247 Kim Keat Link","5 ROOM",125,868,1,2,10
+"238 Lor 1 Toa Payoh","5 ROOM",120,869,7,20,10
+"139a Lor 1a Toa Payoh","5 ROOM",114,870,11,32,10
+"138c Lor 1a Toa Payoh","5 ROOM",117,871,8,23,10
+"138a Lor 1a Toa Payoh","5 ROOM",117,872,13,38,10
+"82b Lor 4 Toa Payoh","5 ROOM",121,873,2,5,10
+"6 Lor 7 Toa Payoh","5 ROOM",121,874,9,26,10
+"236 Lor 1 Toa Payoh","EXECUTIVE",146,875,3,8,10
+"204 Marsiling Dr","3 ROOM",68,876,4,11,10
+"15 Marsiling Lane","3 ROOM",65,877,4,11,10
+"180b Marsiling Rd","3 ROOM",66,878,8,23,10
+"157 Woodlands St 13","3 ROOM",73,879,4,11,10
+"613 Woodlands Ave 4","4 ROOM",102,880,3,8,10
+"367 Woodlands Ave 5","4 ROOM",105,881,3,8,10
+"748 Woodlands Circle","4 ROOM",103,882,2,5,10
+"754 Woodlands Circle","4 ROOM",103,883,2,5,10
+"776 Woodlands Cres","4 ROOM",101,884,1,2,10
+"579 Woodlands Dr 16","4 ROOM",91,885,1,2,10
+"575 Woodlands Dr 16","4 ROOM",86,886,2,5,10
+"897a Woodlands Dr 50","4 ROOM",100,887,3,8,10
+"889a Woodlands Dr 50","4 ROOM",93,888,3,8,10
+"554 Woodlands Dr 53","4 ROOM",95,889,2,5,10
+"712 Woodlands Dr 70","4 ROOM",102,890,1,2,10
+"684b Woodlands Dr 73","4 ROOM",101,891,2,5,10
+"687b Woodlands Dr 75","4 ROOM",94,892,4,11,10
+"632 Woodlands Ring Rd","4 ROOM",102,893,1,2,10
+"640 Woodlands Ring Rd","4 ROOM",102,894,2,5,10
+"105 Woodlands St 13","4 ROOM",91,895,5,14,10
+"870 Woodlands St 81","4 ROOM",111,896,4,11,10
+"9 Marsiling Dr","5 ROOM",117,897,3,8,10
+"350 Woodlands Ave 3","5 ROOM",122,898,3,8,10
+"846 Woodlands Ave 4","5 ROOM",132,899,4,11,10
+"790 Woodlands Ave 6","5 ROOM",121,900,3,8,10
+"738 Woodlands Circle","5 ROOM",121,901,3,8,10
+"721 Woodlands Circle","5 ROOM",122,902,3,8,10
+"517 Woodlands Dr 14","5 ROOM",126,903,2,5,10
+"507 Woodlands Dr 14","5 ROOM",122,904,1,2,10
+"539 Woodlands Dr 16","5 ROOM",115,905,1,2,10
+"576 Woodlands Dr 16","5 ROOM",110,906,2,5,10
+"890a Woodlands Dr 50","5 ROOM",113,907,3,8,10
+"683c Woodlands Dr 62","5 ROOM",120,908,3,8,10
+"688f Woodlands Dr 75","5 ROOM",110,909,4,11,10
+"690d Woodlands Dr 75","5 ROOM",110,910,2,5,10
+"644 Woodlands Ring Rd","5 ROOM",122,911,2,5,10
+"633 Woodlands Ring Rd","5 ROOM",121,912,3,8,10
+"644 Woodlands Ring Rd","5 ROOM",121,913,4,11,10
+"639 Woodlands Ring Rd","5 ROOM",120,914,2,5,10
+"331 Woodlands Ave 1","EXECUTIVE",192,915,3,8,10
+"523 Woodlands Dr 14","EXECUTIVE",142,916,2,5,10
+"531 Woodlands Dr 14","EXECUTIVE",144,917,4,11,10
+"670 Woodlands Dr 71","EXECUTIVE",130,918,3,8,10
+"656 Woodlands Ring Rd","EXECUTIVE",144,919,2,5,10
+"326 Woodlands St 32","EXECUTIVE",164,920,3,8,10
+"808 Woodlands St 81","EXECUTIVE",189,921,4,11,10
+"233 Bt Batok East Ave 5","3 ROOM",67,1065,1,2,10
+"333 Bt Batok St 32","3 ROOM",64,1066,1,2,10
+"527 Bt Batok St 51","3 ROOM",70,1067,1,2,10
+"420 Bt Batok West Ave 2","3 ROOM",68,1068,2,5,10
+"296b Bt Batok St 22","4 ROOM",92,1069,6,17,10
+"289f Bt Batok St 25","4 ROOM",92,1070,2,5,10
+"288d Bt Batok St 25","4 ROOM",92,1071,4,11,10
+"391 Bt Batok West Ave 5","4 ROOM",86,1072,5,14,10
+"385 Bt Batok West Ave 5","4 ROOM",90,1073,5,14,10
+"383 Bt Batok West Ave 5","4 ROOM",92,1074,2,5,10
+"168 Bt Batok West Ave 8","4 ROOM",103,1075,2,5,10
+"622 Bt Batok Ctrl","5 ROOM",113,1076,9,26,10
+"627 Bt Batok Ctrl","EXECUTIVE",140,1077,1,2,10
+"526 Bt Batok St 51","EXECUTIVE",146,1078,3,8,10
+"20 Jln Klinik","2 ROOM",48,1079,1,2,10
+"45 Telok Blangah Dr","2 ROOM",45,1080,4,11,10
+"76 Telok Blangah Dr","2 ROOM",44,1081,1,2,10
+"124 Bt Merah Lane 1","3 ROOM",80,1082,1,2,10
+"6 Jln Bt Ho Swee","3 ROOM",56,1083,3,8,10
+"22 Telok Blangah Cres","3 ROOM",70,1084,5,14,10
+"110a Depot Rd","4 ROOM",92,1085,2,5,10
+"104a Depot Rd","4 ROOM",100,1086,8,23,10
+"104a Depot Rd","4 ROOM",100,1087,1,2,10
+"26d Jln Membina","4 ROOM",90,1088,5,14,10
+"70c Telok Blangah Hts","4 ROOM",93,1089,6,17,10
+"80c Telok Blangah St 31","4 ROOM",93,1090,4,11,10
+"6a Boon Tiong Rd","5 ROOM",115,1091,4,11,10
+"9 Cantonment Cl","5 ROOM",110,1092,5,14,10
+"52 Lengkok Bahru","5 ROOM",122,1093,1,2,10
+"48 Lengkok Bahru","5 ROOM",122,1094,3,8,10
+"73a Redhill Rd","5 ROOM",115,1095,7,20,10
+"303 Clementi Ave 4","3 ROOM",67,1157,1,2,10
+"374 Clementi Ave 4","3 ROOM",68,1158,3,8,10
+"307 Clementi Ave 4","3 ROOM",67,1159,4,11,10
+"305 Clementi Ave 4","3 ROOM",67,1160,1,2,10
+"303 Clementi Ave 4","3 ROOM",82,1161,4,11,10
+"706 Clementi West St 2","3 ROOM",68,1162,4,11,10
+"312c Clementi Ave 4","4 ROOM",93,1163,3,8,10
+"311a Clementi Ave 4","4 ROOM",82,1164,5,14,10
+"312c Clementi Ave 4","4 ROOM",93,1165,9,26,10
+"324 Clementi Ave 5","4 ROOM",91,1166,3,8,10
+"208a Clementi Ave 6","4 ROOM",93,1167,4,11,10
+"612 Clementi West St 1","4 ROOM",103,1168,4,11,10
+"414 C'wealth Ave West","5 ROOM",125,1169,4,11,10
+"613 Clementi West St 1","5 ROOM",133,1170,3,8,10
+"180a Boon Lay Dr","2 ROOM",47,1225,1,2,10
+"186 Boon Lay Ave","3 ROOM",59,1226,2,5,10
+"489 Jurong West Ave 1","3 ROOM",73,1227,1,2,10
+"489 Jurong West Ave 1","3 ROOM",73,1228,4,11,10
+"511 Jurong West St 52","3 ROOM",74,1229,4,11,10
+"697a Jurong West Ctrl 3","4 ROOM",93,1230,5,14,10
+"698c Jurong West Ctrl 3","4 ROOM",93,1231,2,5,10
+"459 Jurong West St 41","4 ROOM",103,1232,1,2,10
+"412 Jurong West St 42","4 ROOM",103,1233,4,11,10
+"511 Jurong West St 52","4 ROOM",104,1234,4,11,10
+"661d Jurong West St 64","4 ROOM",91,1235,2,5,10
+"866 Jurong West St 81","4 ROOM",105,1236,3,8,10
+"975 Jurong West St 93","4 ROOM",105,1237,1,2,10
+"218b Boon Lay Ave","5 ROOM",114,1238,3,8,10
+"200 Boon Lay Dr","5 ROOM",121,1239,2,5,10
+"686a Jurong West Ctrl 1","5 ROOM",110,1240,6,17,10
+"517a Jurong West St 52","5 ROOM",116,1241,5,14,10
+"653b Jurong West St 61","5 ROOM",111,1242,5,14,10
+"676b Jurong West St 64","5 ROOM",110,1243,3,8,10
+"662b Jurong West St 64","5 ROOM",110,1244,1,2,10
+"659c Jurong West St 65","5 ROOM",110,1245,6,17,10
+"618 Jurong West St 65","5 ROOM",109,1246,5,14,10
+"674a Jurong West St 65","5 ROOM",110,1247,5,14,10
+"670a Jurong West St 65","5 ROOM",110,1248,5,14,10
+"659a Jurong West St 65","5 ROOM",110,1249,1,2,10
+"823 Jurong West St 81","5 ROOM",121,1250,2,5,10
+"358 Yung An Rd","5 ROOM",128,1251,2,5,10
+"726 Jurong West Ave 5","EXECUTIVE",154,1252,3,8,10
+"556 Jurong West St 42","EXECUTIVE",150,1253,4,11,10
+"666a Jurong West St 65","EXECUTIVE",130,1254,4,11,10
+"752 Jurong West St 74","EXECUTIVE",143,1255,5,14,10
+"369 Yung An Rd","EXECUTIVE",154,1256,3,8,10
+"450c Sengkang West Way","2 ROOM",46,1383,3,8,10
+"211c Compassvale Lane","3 ROOM",68,1384,2,5,10
+"470c Fernvale Link","3 ROOM",68,1385,3,8,10
+"453a Fernvale Rd","3 ROOM",67,1386,3,8,10
+"439c Sengkang West Ave","3 ROOM",69,1387,2,5,10
+"432a Sengkang West Way","3 ROOM",67,1388,7,20,10
+"333d Anchorvale Link","4 ROOM",92,1389,5,14,10
+"326d Anchorvale Rd","4 ROOM",92,1390,2,5,10
+"274a Compassvale Bow","4 ROOM",92,1391,2,5,10
+"216d Compassvale Dr","4 ROOM",92,1392,1,2,10
+"275a Compassvale Link","4 ROOM",90,1393,3,8,10
+"265c Compassvale Link","4 ROOM",92,1394,2,5,10
+"228b Compassvale Walk","4 ROOM",101,1395,1,2,10
+"430a Fernvale Link","4 ROOM",92,1396,3,8,10
+"440c Fernvale Link","4 ROOM",92,1397,7,20,10
+"470a Fernvale Link","4 ROOM",93,1398,2,5,10
+"430d Fernvale Link","4 ROOM",92,1399,3,8,10
+"430b Fernvale Link","4 ROOM",92,1400,2,5,10
+"436c Fernvale Rd","4 ROOM",96,1401,9,26,10
+"411b Fernvale Rd","4 ROOM",95,1402,5,14,10
+"453c Fernvale Rd","4 ROOM",92,1403,8,23,10
+"445b Fernvale Rd","4 ROOM",94,1404,6,17,10
+"153 Rivervale Cres","4 ROOM",90,1405,1,2,10
+"180c Rivervale Cres","4 ROOM",93,1406,6,17,10
+"163c Rivervale Cres","4 ROOM",93,1407,5,14,10
+"183d Rivervale Cres","4 ROOM",85,1408,3,8,10
+"119a Rivervale Dr","4 ROOM",102,1409,3,8,10
+"197 Rivervale Dr","4 ROOM",91,1410,6,17,10
+"116a Rivervale Dr","4 ROOM",95,1411,1,2,10
+"104 Rivervale Walk","4 ROOM",102,1412,2,5,10
+"282b Sengkang East Ave","4 ROOM",92,1413,5,14,10
+"325c Sengkang East Way","4 ROOM",90,1414,5,14,10
+"320b Anchorvale Dr","5 ROOM",110,1415,2,5,10
+"330b Anchorvale St","5 ROOM",112,1416,3,8,10
+"278a Compassvale Bow","5 ROOM",113,1417,2,5,10
+"289a Compassvale Cres","5 ROOM",113,1418,5,14,10
+"295b Compassvale Cres","5 ROOM",110,1419,4,11,10
+"287a Compassvale Cres","5 ROOM",113,1420,3,8,10
+"287c Compassvale Cres","5 ROOM",113,1421,4,11,10
+"288a Compassvale Cres","5 ROOM",113,1422,2,5,10
+"216a Compassvale Dr","5 ROOM",112,1423,2,5,10
+"206c Compassvale Lane","5 ROOM",122,1424,3,8,10
+"259c Compassvale Rd","5 ROOM",110,1425,4,11,10
+"253 Compassvale St","5 ROOM",115,1426,1,2,10
+"224b Compassvale Walk","5 ROOM",122,1427,6,17,10
+"468a Fernvale Link","5 ROOM",113,1428,3,8,10
+"471a Fernvale St","5 ROOM",113,1429,5,14,10
+"183a Rivervale Cres","5 ROOM",110,1430,2,5,10
+"163b Rivervale Cres","5 ROOM",113,1431,2,5,10
+"194 Rivervale Dr","5 ROOM",111,1432,4,11,10
+"109 Rivervale Walk","5 ROOM",123,1433,6,17,10
+"282c Sengkang East Ave","5 ROOM",112,1434,5,14,10
+"282c Sengkang East Ave","5 ROOM",112,1435,3,8,10
+"137 Rivervale St","EXECUTIVE",141,1436,4,11,10
+"324c Sengkang East Way","EXECUTIVE",125,1437,2,5,10
+"909 Tampines Ave 4","3 ROOM",73,1450,3,8,10
+"524b Tampines Ctrl 7","3 ROOM",67,1451,6,17,10
+"251 Tampines St 21","3 ROOM",74,1452,3,8,10
+"215 Tampines St 23","3 ROOM",67,1453,4,11,10
+"418 Tampines St 41","3 ROOM",74,1454,1,2,10
+"452 Tampines St 42","3 ROOM",64,1455,1,2,10
+"494d Tampines St 43","3 ROOM",68,1456,5,14,10
+"847 Tampines St 83","3 ROOM",74,1457,4,11,10
+"925 Tampines St 91","3 ROOM",73,1458,4,11,10
+"930 Tampines St 91","3 ROOM",73,1459,1,2,10
+"914 Tampines St 91","3 ROOM",73,1460,5,14,10
+"253 Simei St 1","4 ROOM",101,1461,4,11,10
+"524a Tampines Ctrl 7","4 ROOM",93,1462,2,5,10
+"264 Tampines St 21","4 ROOM",103,1463,2,5,10
+"237 Tampines St 21","4 ROOM",104,1464,2,5,10
+"274 Tampines St 22","4 ROOM",105,1465,4,11,10
+"369 Tampines St 34","4 ROOM",104,1466,4,11,10
+"450e Tampines St 42","4 ROOM",107,1467,4,11,10
+"490a Tampines St 45","4 ROOM",107,1468,1,2,10
+"717 Tampines St 72","4 ROOM",99,1469,5,14,10
+"852 Tampines St 82","4 ROOM",104,1470,3,8,10
+"884 Tampines St 83","4 ROOM",103,1471,4,11,10
+"843 Tampines St 83","4 ROOM",84,1472,2,5,10
+"913 Tampines St 91","4 ROOM",104,1473,2,5,10
+"116 Simei St 1","5 ROOM",122,1474,3,8,10
+"153 Simei St 1","5 ROOM",122,1475,1,2,10
+"101 Simei St 1","5 ROOM",128,1476,1,2,10
+"246 Simei St 5","5 ROOM",121,1477,4,11,10
+"396 Tampines Ave 7","5 ROOM",128,1478,4,11,10
+"496d Tampines Ave 9","5 ROOM",126,1479,4,11,10
+"486a Tampines Ave 9","5 ROOM",128,1480,4,11,10
+"305 Tampines St 32","5 ROOM",126,1481,4,11,10
+"339 Tampines St 33","5 ROOM",124,1482,2,5,10
+"453 Tampines St 42","5 ROOM",122,1483,3,8,10
+"491f Tampines St 45","5 ROOM",124,1484,1,2,10
+"716 Tampines St 71","5 ROOM",119,1485,1,2,10
+"705 Tampines St 71","5 ROOM",119,1486,1,2,10
+"712 Tampines St 71","5 ROOM",119,1487,2,5,10
+"842e Tampines St 82","5 ROOM",128,1488,3,8,10
+"871c Tampines St 86","5 ROOM",114,1489,6,17,10
+"932 Tampines St 91","5 ROOM",132,1490,3,8,10
+"926 Tampines St 91","5 ROOM",133,1491,1,2,10
+"858 Tampines Ave 5","EXECUTIVE",146,1492,3,8,10
+"309 Tampines St 32","EXECUTIVE",144,1493,4,11,10
+"52 Lor 6 Toa Payoh","2 ROOM",43,1494,1,2,10
+"9 Joo Seng Rd","3 ROOM",68,1495,4,11,10
+"100 Lor 1 Toa Payoh","3 ROOM",78,1496,2,5,10
+"111 Lor 1 Toa Payoh","3 ROOM",66,1497,3,8,10
+"114 Lor 1 Toa Payoh","3 ROOM",65,1498,1,2,10
+"69 Lor 4 Toa Payoh","3 ROOM",62,1499,2,5,10
+"59 Lor 5 Toa Payoh","3 ROOM",61,1500,3,8,10
+"1 Lor 7 Toa Payoh","3 ROOM",67,1501,2,5,10
+"15 Joo Seng Rd","4 ROOM",106,1502,2,5,10
+"43 Lor 5 Toa Payoh","4 ROOM",110,1503,3,8,10
+"62 Lor 4 Toa Payoh","5 ROOM",120,1504,7,20,10
+"229 Lor 8 Toa Payoh","5 ROOM",117,1505,9,26,10
+"215 Lor 8 Toa Payoh","5 ROOM",117,1506,7,20,10
+"215 Lor 8 Toa Payoh","5 ROOM",117,1507,8,23,10
+"122 Potong Pasir Ave 1","5 ROOM",135,1508,4,11,10
+"6 Marsiling Dr","3 ROOM",65,1509,4,11,10
+"204 Marsiling Dr","4 ROOM",93,1510,3,8,10
+"571b Woodlands Ave 1","4 ROOM",92,1511,1,2,10
+"337 Woodlands Ave 1","4 ROOM",83,1512,1,2,10
+"537 Woodlands Dr 16","4 ROOM",100,1513,3,8,10
+"547 Woodlands Dr 16","4 ROOM",101,1514,2,5,10
+"605 Woodlands Dr 42","4 ROOM",93,1515,4,11,10
+"889b Woodlands Dr 50","4 ROOM",93,1516,3,8,10
+"897a Woodlands Dr 50","4 ROOM",99,1517,1,2,10
+"896b Woodlands Dr 50","4 ROOM",97,1518,1,2,10
+"622 Woodlands Dr 52","4 ROOM",102,1519,2,5,10
+"659 Woodlands Ring Rd","4 ROOM",101,1520,1,2,10
+"668 Woodlands Ring Rd","4 ROOM",91,1521,4,11,10
+"429 Woodlands St 41","4 ROOM",104,1522,1,2,10
+"854 Woodlands St 83","4 ROOM",104,1523,2,5,10
+"368 Woodlands Ave 1","5 ROOM",123,1524,1,2,10
+"844 Woodlands Ave 4","5 ROOM",136,1525,3,8,10
+"752 Woodlands Circle","5 ROOM",121,1526,4,11,10
+"524 Woodlands Dr 14","5 ROOM",124,1527,2,5,10
+"894c Woodlands Dr 50","5 ROOM",119,1528,3,8,10
+"892a Woodlands Dr 50","5 ROOM",118,1529,3,8,10
+"711 Woodlands Dr 70","5 ROOM",121,1530,3,8,10
+"794 Woodlands Dr 72","5 ROOM",121,1531,3,8,10
+"686a Woodlands Dr 73","5 ROOM",115,1532,2,5,10
+"689b Woodlands Dr 75","5 ROOM",110,1533,3,8,10
+"644 Woodlands Ring Rd","5 ROOM",121,1534,2,5,10
+"165 Woodlands St 13","5 ROOM",121,1535,3,8,10
+"139 Marsiling Rd","EXECUTIVE",174,1536,3,8,10
+"521 Woodlands Dr 14","EXECUTIVE",148,1537,3,8,10
+"514 Woodlands Dr 14","EXECUTIVE",147,1538,3,8,10
+"635 Woodlands Ring Rd","EXECUTIVE",141,1539,4,11,10
+"819 Woodlands St 82","EXECUTIVE",146,1540,1,2,10
+"271 Bt Batok East Ave 4","3 ROOM",64,1596,3,8,10
+"233 Bt Batok East Ave 5","3 ROOM",82,1597,3,8,10
+"393 Bt Batok West Ave 5","4 ROOM",92,1598,4,11,10
+"40 Beo Cres","3 ROOM",59,1599,3,8,10
+"105a Depot Rd","3 ROOM",67,1600,3,8,10
+"104a Depot Rd","4 ROOM",100,1601,3,8,10
+"126a Kim Tian Rd","4 ROOM",93,1602,7,20,10
+"34 Telok Blangah Way","4 ROOM",82,1603,4,11,10
+"22 Jln Membina","5 ROOM",110,1604,2,5,10
+"76a Redhill Rd","5 ROOM",115,1605,4,11,10
+"612 Clementi West St 1","3 ROOM",74,1615,3,8,10
+"311c Clementi Ave 4","4 ROOM",80,1616,3,8,10
+"208a Clementi Ave 6","4 ROOM",93,1617,1,2,10
+"209 Boon Lay Pl","3 ROOM",65,1632,3,8,10
+"848 Jurong West St 81","4 ROOM",108,1633,3,8,10
+"437 Jurong West Ave 1","5 ROOM",134,1634,3,8,10
+"437 Jurong West Ave 1","5 ROOM",133,1635,4,11,10
+"272b Jurong West St 24","5 ROOM",112,1636,2,5,10
+"558 Jurong West St 42","EXECUTIVE",150,1637,2,5,10
+"669b Jurong West St 64","EXECUTIVE",130,1638,3,8,10
+"671b Jurong West St 65","EXECUTIVE",126,1639,1,2,10
+"326c Anchorvale Rd","4 ROOM",92,1662,1,2,10
+"216a Compassvale Dr","4 ROOM",92,1663,2,5,10
+"441b Fernvale Rd","4 ROOM",93,1664,6,17,10
+"443b Fernvale Rd","4 ROOM",94,1665,5,14,10
+"472b Fernvale St","4 ROOM",93,1666,2,5,10
+"123 Rivervale Dr","4 ROOM",101,1667,4,11,10
+"287a Compassvale Cres","5 ROOM",113,1668,2,5,10
+"287a Compassvale Cres","5 ROOM",113,1669,3,8,10
+"236 Compassvale Walk","5 ROOM",123,1670,5,14,10
+"225 Tampines St 23","3 ROOM",73,1673,2,5,10
+"523c Tampines Ctrl 7","4 ROOM",93,1674,6,17,10
+"126 Simei St 1","5 ROOM",122,1675,3,8,10
+"141 Simei St 2","5 ROOM",122,1676,1,2,10
+"860 Tampines Ave 5","EXECUTIVE",146,1677,2,5,10
+"889 Tampines St 81","EXECUTIVE",142,1678,1,2,10
+"141 Lor 2 Toa Payoh","5 ROOM",115,1679,2,5,10
+"37 Lor 5 Toa Payoh","5 ROOM",117,1680,7,20,10
+"19 Marsiling Lane","3 ROOM",60,1681,2,5,10
+"518 Woodlands Dr 14","4 ROOM",104,1682,4,11,10
+"520 Woodlands Dr 14","4 ROOM",102,1683,1,2,10
+"896b Woodlands Dr 50","4 ROOM",99,1684,1,2,10
+"644 Woodlands Ring Rd","4 ROOM",101,1685,3,8,10
+"335 Woodlands St 32","4 ROOM",83,1686,3,8,10
+"505 Woodlands Dr 14","5 ROOM",123,1687,3,8,10
+"512 Woodlands Dr 14","EXECUTIVE",147,1688,2,5,10
+"849 Woodlands St 82","EXECUTIVE",177,1689,4,11,10
+"869 Woodlands St 83","EXECUTIVE",145,1690,1,2,10

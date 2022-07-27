@@ -1,0 +1,45 @@
+2001
+Average validation Sum of Squared Errors = 508794190916643.0
+Average testing Sum of Squared Errors = 73370395116532.02
+
+2003
+Average validation Sum of Squared Errors = 435741320501956.0
+Average testing Sum of Squared Errors = 65384414835593.16
+
+2005
+Average validation Sum of Squared Errors = 369253868528703.56
+Average testing Sum of Squared Errors = 57878123006280.11
+
+2007
+Average validation Sum of Squared Errors = 298048104128514.75
+Average testing Sum of Squared Errors = 50427957621505.67
+
+2009
+Average validation Sum of Squared Errors = 236465930454397.4
+Average testing Sum of Squared Errors = 44820693292959.89
+
+2011
+SSE_valid = 193999568300576.84
+SSE_test = 40078684348299.86
+
+2013
+Average validation SSE = 162865959515165.0
+Average testing SSE = 40396837969264.48
+
+2015
+K-fold Cross validation. Selected K = 10
+Average validation SSE = 144861974627624.7
+Average testing SSE = 41708031380314.39
+
+2017
+Average validation Sum of Squared Errors = 118851964869196.66
+Average testing Sum of Squared Errors = 40584346009893.79
+
+2019
+K-fold Cross validation. Selected K = 10
+Average validation SSE = 76851412493029.3
+Average testing SSE = 37743874227990.79
+
+2021
+Average validation Sum of Squared Errors = 29695898795344.68
+Average testing Sum of Squared Errors = 30989896113887.4

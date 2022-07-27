@@ -1,0 +1,58 @@
+2001:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 11,602,431,573,535.453
+Average testing Sum of Squared Errors = 2,336,056,482,594.968
+
+2003:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 11,100,263,357,885.15
+Average testing Sum of Squared Errors = 2,300,525,868,469.3237
+
+2005:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 9,946,480,975,486.74
+Average testing Sum of Squared Errors = 2,383,689,304,720.2026
+
+2007:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 9,289,721,856,532.56
+Average testing Sum of Squared Errors = 2,381,414,824,817.6274
+
+2009:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 8,047,319,357,129.529
+Average testing Sum of Squared Errors = 2,282,836,711,312.6978
+
+2011:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 6,311,791,981,990.5625
+Average testing Sum of Squared Errors = 2,092,300,871,482.7563
+
+2013:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 5,166,497,028,608.125
+Average testing Sum of Squared Errors = 1,924,927,396,930.5522
+
+2015:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 4,211,617,024,629.374
+Average testing Sum of Squared Errors = 1,986,064,580,614.814
+
+2017:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 3,257,592,212,455.205
+Average testing Sum of Squared Errors = 1,888,587,703,324.3328
+
+2019:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 2,125,191,321,330.0405
+Average testing Sum of Squared Errors = 1,930,579,733,371.6414
+
+2021:
+K-fold Cross Validation. Selected K = 10
+Average validation Sum of Squared Errors = 895,475,578,354.0979
+Average testing Sum of Squared Errors = 4,927,769,460,126.204
+
+Random Forest:
+Best starting year for validation: 2021
+Best starting year for testing: 2017
